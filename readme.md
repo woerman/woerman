@@ -1,4 +1,4 @@
-# Matt Woerman, Assistant Professor
+### Matt Woerman, Assistant Professor
 
 I am an Assistant Professor in the Department of Resource Economics at the University of Massachusetts Amherst.
 
